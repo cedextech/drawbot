@@ -1,0 +1,19 @@
+{
+  "name": "abot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "botbuilder": "3.15.0",
+    "cacheman": "2.2.1",
+    "dotenv": "5.0.1",
+    "express": "4.16.3",
+    "restify": "7.1.1"
+  }
+}
